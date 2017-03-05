@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 def my_square(x):
   """
-  my_square(x): calculates the square of arg x.
+  my_square(x): calculates the square of arg x. Uses the python ** operator.
   """
   return(x**2)
 
